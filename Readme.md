@@ -1,1 +1,1 @@
-# repositorio Ingerniera en sistemas 2
+# repositorio Ingenieria en sistemas 2
